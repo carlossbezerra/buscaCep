@@ -5,7 +5,7 @@ Treinamento feito com Matheus Castiglioni.
 
 Post: [Preenchendo formulário HTML automaticamente com AJAX](http://blog.matheuscastiglioni.com.br/requisicoes-ajax-com-javascript)
 
-Segu link do projeto ==>  
+Segu link do projeto =>  
 https://buscador-cep-carlosdev.netlify.app/
 
 ![image](https://github.com/user-attachments/assets/25693c63-4407-4c44-928c-57b53429acc1)
